@@ -1,4 +1,7 @@
 # spider_888ly_travel
+
+八爪鱼在线旅游网，指定出境路线导出
+
 (一) 环境
  1 . 安装浏览器firefox   安装扩展greasemonkey
 
